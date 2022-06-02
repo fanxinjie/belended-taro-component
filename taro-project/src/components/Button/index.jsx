@@ -7,7 +7,6 @@ export default function (props) {
   return (
     <View>
       <View>Button demo</View>
-      {/* <Slot name="default" /> */}
       {props.children}
     </View>
   )
