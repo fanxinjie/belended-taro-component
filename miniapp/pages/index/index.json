@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "picker": "../../taro/components/picker/index",
+    "CusButton": "../../taro/components/Button/index"
+  }
+}
